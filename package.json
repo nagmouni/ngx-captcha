@@ -2,8 +2,8 @@
   "name": "@binssoft/ngx-captcha",
   "version": "0.0.1",
   "peerDependencies": {
-    "@angular/common": "^17.0.0",
-    "@angular/core": "^17.0.0"
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0"
   },
   "main": "bundles/binssoft-ngx-captcha.umd.js",
   "module": "fesm5/binssoft-ngx-captcha.js",
@@ -17,13 +17,13 @@
   "sideEffects": false,
   "dependencies": {
     "tslib": "^2.3.0",
-    "@angular/animations": "^17.0.0",
-  "@angular/common": "^17.0.0",
-  "@angular/compiler": "^17.0.0",
-  "@angular/core": "^17.0.0",
-  "@angular/forms": "^17.0.0",
-  "@angular/platform-browser": "^17.0.0",
-  "@angular/platform-browser-dynamic": "^17.0.0",
-  "@angular/router": "^17.0.0"
+    "@angular/animations": "^17.3.0",
+  "@angular/common": "^17.3.0",
+  "@angular/compiler": "^17.3.0",
+  "@angular/core": "^17.3.0",
+  "@angular/forms": "^17.3.0",
+  "@angular/platform-browser": "^17.3.0",
+  "@angular/platform-browser-dynamic": "^17.3.0",
+  "@angular/router": "^17.3.0"
   }
 }
