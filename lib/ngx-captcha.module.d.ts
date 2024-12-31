@@ -1,4 +1,8 @@
-import { ModuleWithProviders } from '@angular/core';
+import { ModuleWithProviders } from "@angular/core";
 export declare class NgxCaptchaModule {
-    static forRoot(): ModuleWithProviders;
+  static forRoot(): ModuleWithProviders<NgxCaptchaModule> {
+    return {
+      ngModule: NgxCaptchaModule,
+    };
+  }
 }
